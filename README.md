@@ -46,6 +46,14 @@ Técnico em Programador de Sistemas | SENAC | 2022 | Curso Técnico
 <div>
   <a href=https://www.linkedin.com/in/rick-dias013/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
+
+## Dashboarding GitHub
+
+<div align="center">
+<a href="https://github.com/JanesDays">
+<igm height="170em" src="https://github-readme-stats.vercel.app/api?username=JanesDays&show_icons=true&theme=dark&include_all_commits=true=&count_private=true"/>
+<igm height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanesDays&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <!--
 **JanesDays/JanesDays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
