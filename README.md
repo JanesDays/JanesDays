@@ -33,7 +33,19 @@
   <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude"/>
 </div>
 
+## Cursos e Certificações
 
+Descrição    | Instituição    | Ano | Tipo
+---------  | ----------| ------- | -------
+Pós-graduação em Cibersegurança e Governança de Dados | PUC Minas | 2026 | Cursando
+Tecnologia em Redes de Computadores | Estácio | 2026 | Graduação
+Técnico em Programador de Sistemas | SENAC | 2022 | Curso Técnico
+
+## Redes Sociais
+
+<div>
+  <a href=https://www.linkedin.com/in/rick-dias013/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</div>
 <!--
 **JanesDays/JanesDays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
